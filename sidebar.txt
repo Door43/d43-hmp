@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hmp:home|Door43 (hmp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hmp|d43-hmp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hmp/archive/master.zip|d43-hmp.zip]]
+
+**Recent Changes**
+{{changes>ns = hmp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hmp|Ethnologue data]]
+
